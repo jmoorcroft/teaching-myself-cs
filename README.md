@@ -5,13 +5,13 @@
 My goal for each of the below topics is to achieve 100-200 hours of study, with at least meaningful one project per topic that applies my learnings. Where applicable, the project can be replaced with thorough practice solving problem exercises. Notes will be centralized in this repo and updated as I go along.
 
 ### 1 | Programming
-- [ ] Course: [Berkeley 61A (Brian Harvey)](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
-- [ ] Book: [Structure and Interpretation of Computer Programs (Abelson and Sussman)](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+- [ ] Course: [Berkeley 61A (Brian Harvey)](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) **In Progress**
+- [ ] Book: [Structure and Interpretation of Computer Programs (Abelson and Sussman)](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) **In Progress**
 - [ ] Additional exercises: [exercism](http://exercism.io/)
 
 ### 2 | Math for CS
 #### Discrete Mathematics
-- [ ] Book: [Discrete Mathematics (L. Lovasz and K. Vesztergombi)](http://www.cs.elte.hu/~lovasz/dmbook.ps)
+- [ ] Book: [Discrete Mathematics (L. Lovasz and K. Vesztergombi)](http://www.cs.elte.hu/~lovasz/dmbook.ps) **In Progress**
 #### Advanced Math for CS
 - [ ] Course: [MIT 6.042](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 - [ ] Book: [Mathematics for Computer Science (Lehman, Leyton, Meyer)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
