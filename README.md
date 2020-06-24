@@ -4,6 +4,9 @@
 ## Curriculum & Resources
 My goal for each of the below topics is to achieve 100-200 hours of study, with at least meaningful one project per topic that applies my learnings. Where applicable, the project can be replaced with thorough practice solving problem exercises. Notes will be centralized in this repo and updated as I go along.
 
+### 0 | Tools
+- [ ] Course: [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/)
+
 ### 1 | Programming
 - [ ] Course: [Berkeley 61A (Brian Harvey)](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) **In Progress**
 - [ ] Book: [Structure and Interpretation of Computer Programs (Abelson and Sussman)](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) **In Progress**
